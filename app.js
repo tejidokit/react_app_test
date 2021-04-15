@@ -1,5 +1,5 @@
 // alert("hello");
-
+import React from 'react'
 
 // rfc
 // export default function app() {
@@ -9,3 +9,13 @@
 //         </div>
 //     )
 // }
+
+function OurApp() {
+    return (
+        <div>
+            <h1 className="special">App header</h1>
+            <p>The current time is {new Date().toLocaleString()}</p>
+            <small>Copyright Footer Text</small>
+        </div>
+    )
+}
