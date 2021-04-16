@@ -15,7 +15,7 @@ function OurApp() {
         <div>
             <h1 className="special">App header</h1>
             <p>The current time is {new Date().toLocaleString()}</p>
-            <small>Copyright Footer Text</small>
+            <div className="special"></div>
         </div>
     )
 }
