@@ -1,14 +1,3 @@
-// alert("hello");
-import React from 'react'
-
-// rfc
-// export default function app() {
-//     return (
-//         <div>
-            
-//         </div>
-//     )
-// }
 
 function OurApp() {
     return (
