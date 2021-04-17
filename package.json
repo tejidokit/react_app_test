@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/tejidokit/react_app_test/issues"
   },
-  "homepage": "https://github.com/tejidokit/react_app_test#readme"
+  "homepage": "https://github.com/tejidokit/react_app_test#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "webpack": "^5.33.2",
+    "webpack-cli": "^4.6.0",
+    "webpack-dev-server": "^3.11.2"
+  }
 }
